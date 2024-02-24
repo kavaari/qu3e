@@ -1,7 +1,7 @@
 //--------------------------------------------------------------------------------------------------
 // q3Vec3.inl
 //
-//	Copyright (c) 2014 Randy Gaul http://www.randygaul.net
+//	Copyright (c) 2014 Randy Gaul 
 //
 //	This software is provided 'as-is', without any express or implied
 //	warranty. In no event will the authors be held liable for any damages

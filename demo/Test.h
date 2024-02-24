@@ -5,7 +5,7 @@
 @author	Randy Gaul
 @date	10/26/2015
 
-	Copyright (c) 2015 Randy Gaul http://www.randygaul.net
+	Copyright (c) 2015 Randy Gaul 
 
 	This software is provided 'as-is', without any express or implied
 	warranty. In no event will the authors be held liable for any damages

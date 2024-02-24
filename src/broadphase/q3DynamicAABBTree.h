@@ -5,7 +5,7 @@
 @author	Randy Gaul
 @date	10/10/2014
 
-	Copyright (c) 2014 Randy Gaul http://www.randygaul.net
+	Copyright (c) 2014 Randy Gaul 
 
 	This software is provided 'as-is', without any express or implied
 	warranty. In no event will the authors be held liable for any damages
@@ -35,7 +35,7 @@
 //--------------------------------------------------------------------------------------------------
 // Resources:
 // http://box2d.org/2014/08/balancing-dynamic-trees/
-// http://www.randygaul.net/2013/08/06/dynamic-aabb-tree/
+// /2013/08/06/dynamic-aabb-tree/
 class q3Render;
 
 class q3DynamicAABBTree

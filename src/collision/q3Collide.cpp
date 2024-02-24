@@ -5,7 +5,7 @@
 @author	Randy Gaul
 @date	10/10/2014
 
-	Copyright (c) 2014 Randy Gaul http://www.randygaul.net
+	Copyright (c) 2014 Randy Gaul 
 
 	This software is provided 'as-is', without any express or implied
 	warranty. In no event will the authors be held liable for any damages
@@ -346,7 +346,7 @@ i32 q3Orthographic( r32 sign, r32 e, i32 axis, i32 clipEdge, q3ClipVertex* in, i
 
 //--------------------------------------------------------------------------------------------------
 // Resources (also see q3BoxtoBox's resources):
-// http://www.randygaul.net/2013/10/27/sutherland-hodgman-clipping/
+// /2013/10/27/sutherland-hodgman-clipping/
 i32 q3Clip( const q3Vec3& rPos, const q3Vec3& e, u8* clipEdges, const q3Mat3& basis, q3ClipVertex* incident, q3ClipVertex* outVerts, r32* outDepths )
 {
 	i32 inCount = 4;
@@ -474,7 +474,7 @@ void q3SupportEdge( const q3Transform& tx, const q3Vec3& e, q3Vec3 n, q3Vec3* aO
 
 //--------------------------------------------------------------------------------------------------
 // Resources:
-// http://www.randygaul.net/2014/05/22/deriving-obb-to-obb-intersection-sat/
+// /2014/05/22/deriving-obb-to-obb-intersection-sat/
 // https://box2d.googlecode.com/files/GDC2007_ErinCatto.zip
 // https://box2d.googlecode.com/files/Box2D_Lite.zip
 void q3BoxtoBox( q3Manifold* m, q3Box* a, q3Box* b )
