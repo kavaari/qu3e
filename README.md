@@ -161,7 +161,7 @@ Advanced joints (springs, rods, revolute/prismatic joints) are a nice feature of
 
 Credits
 -------
-Developed by [Randy Gaul](http://randygaul.net).
+Developed by Randy Gaul.
 
 Erin Catto's online resources, such as [Box2D](http://box2d.org) provided a major inspiration to most of the code within qu3e. Special thank you to Dirk Gregorius and Nathan Carlson for the frequent and invaluable help and advice.
 
